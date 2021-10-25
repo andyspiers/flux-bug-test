@@ -2,8 +2,8 @@ apiVersion: v1
 kind: ConfigMap
 metadata:
   creationTimestamp: null
-  name: tester
-  namespace: test-short
+  name: test-short
+  namespace: default
 data:
   field1: value1
   field2: value2
